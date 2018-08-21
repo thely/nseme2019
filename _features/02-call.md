@@ -40,9 +40,9 @@ Composers currently enrolled as graduate or undergraduate students in a college 
 
 Works in progress will be considered if a substantial part of the work is complete. The accepted works cannot exceed the duration indicated at the time of submission, and the final version cannot be substantially different from the versions submitted.
 
-For the selection process, multichannel works must be submitted as stereo mixes.
+For the selection process, multichannel works must be submitted as a Dropbox folder containing labeled stems (.WAVs or .AIFFs) and a speaker-labelling diagram.
 
-Works involving instrumentalists are welcome, but the submitter must provide their own performer(s). Pieces should not exceed 12 minutes. 
+Works involving instrumentalists are welcome, but **the submitter must provide their own performer(s).** Pieces should not exceed 12 minutes. 
 
 [Click here to view the music submission form.][music-subs]
 
@@ -61,16 +61,16 @@ We welcome sound installations to be presented on and around the UVA campus for 
 
 [Click here to view the installation submission form.][installation-subs]
 
-**NSEME is unable to provide performers for submitted works.**
-
 ### Technical Details
 Please indicate in your tech requirements your input/output needs, as well as what equipment you will be bringing and what you need from N_SEME.
 
+**NSEME is unable to provide performers for submitted works.**
+
 ### Venue
-NSEME 2019 takes place at the University of Virginia in Charlottesville, VA. All performances and activities during the day take place on campus. Late night concerts will occur at the Bridge Progressive Arts Initiative in downtown Charlottesville.
+NSEME 2019 takes place at the [University of Virginia](http://music.virginia.edu/) in Charlottesville, VA. All performances and activities during the day take place on campus. Late night concerts will occur at the [Bridge Progressive Arts Initiative](http://thebridgepai.org/) in downtown Charlottesville.
 
 ### Diversity Statement
-All works will be given equal consideration, regardless of the age, race, gender, sexual orientation, school, degree/program, or nationality of the composer/presenter.
+All works will be given equal consideration, regardless of the age, race, gender identity, sexual orientation, school, degree/program, or nationality of the composer/presenter.
 
 ### Dates & Cost
 * Deadline: Scores/materials must be submitted by October 1, 2018. We will respond by November 5, 2018.

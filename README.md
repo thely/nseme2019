@@ -10,4 +10,4 @@ To edit me, you need to install Git and Jekyll. These are all terminal commands.
 3. `git clone https://github.com/thely/nseme2019.git` (downloads this repo)
 4. `bundle exec jekyll serve --watch` (starts the server, watches your files for changes, updates when it sees changes on anything except `_config.yml`)
 
-Go to `localhost:4000/nseme2019` to view the page. 
+Go to `localhost:4000/nseme2019` to view the page.
