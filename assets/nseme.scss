@@ -1,8 +1,11 @@
 ---
 ---
 
+$header-font: "Baloo Tamma";
+$body-font: "Oxygen";
+
 h1, h2, h3, h4, h5, h6 {
-	font-family: "Baloo Tamma", sans-serif;
+	font-family: $header-font, sans-serif;
 }
 
 h1 {
@@ -15,6 +18,10 @@ h2 {
 
 h3 {
 	font-size: 1.6em;
+}
+
+p, div, ol, ul, blockquote {
+	font-family: $body-font;
 }
 
 a, a:hover, a:visited {
@@ -65,9 +72,13 @@ a:hover {
 
 	}
 
-	.inner-wrap, h1, p {
+	.inner-wrap, h1, h3, p {
 		position: relative;
 		z-index: 1;
+	}
+
+	p {
+		padding: 0 6%;
 	}
 }
 
@@ -110,4 +121,8 @@ a:hover {
 	background-color: #ffffff;
 	background-image: url("https://www.transparenttextures.com/patterns/inspiration-geometry.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+.page-archive {
+	background-color: #eaeaea;
 }

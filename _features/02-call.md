@@ -39,14 +39,14 @@ Paper presentations, lecture demonstrations, and workshops related to the field(
 [Click here to view the paper presentation submission form.][paper-subs]
 
 ### Installation Submissions
-We welcome sound installations to be presented on and around the UVA campus for the duration of the NSEME weekend. Basic video projection and sound reinforcement will be provided. Artists will be responsible for bringing all other necessary equipment. Please detail your setup needs in the submission form.
+We welcome sound installations to be presented on and around the UVA campus for the duration of the N_SEME weekend. Basic video projection and sound reinforcement will be provided. Artists will be responsible for bringing all other necessary equipment. Please detail your setup needs in the submission form.
 
 [Click here to view the installation submission form.][installation-subs]
 
 **NSEME is unable to provide performers for submitted works.**
 
 ### Technical Details
-Please indicate in your tech requirements your input/output needs, as well as what equipment you will be bringing and what you need from NSEME.
+Please indicate in your tech requirements your input/output needs, as well as what equipment you will be bringing and what you need from N_SEME.
 
 ### Venue
 NSEME 2019 takes place at the University of Virginia in Charlottesville, VA. All performances and activities during the day take place on campus. Late night concerts will occur at the Bridge Progressive Arts Initiative in downtown Charlottesville.
