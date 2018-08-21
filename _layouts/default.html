@@ -4,17 +4,18 @@
   {%- include head.html -%}
 
   <body>
-
-    <!-- {%- include header.html -%} -->
-
-    <main class="page-content page-{{ page.slug | slugify }}" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+    <main class="page-content" aria-label="Content">
+      {% for feature in site.features %}
+        <section class="section-wrap page-{{ feature.slug | slugify }}">
+          <div class="wrapper">
+            <div class="{{ feature.slug | slugify}} inner">
+              <h1>{{ feature.title }}</h1>
+              {{ feature.content }}
+            </div>
+          </div>
+        </section>
+      {% endfor %}
     </main>
-
-    <!-- {%- include footer.html -%} -->
-
   </body>
 
 </html>
