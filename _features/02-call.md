@@ -8,7 +8,25 @@ slug: call
 **Call for Works, Papers, and Installations  
 February 8-9, 2019 at the University of Virginia**
 
-In its seventh year, the National Student Electronic Music Event solicits works for its annual conference on February 8-9, 2019 at the University of Virginia in Charlottesville, VA. Composers currently enrolled as graduate or undergraduate students in a college or university are invited to submit up to two works across the following categories:
+In its seventh year, the National Student Electronic Music Event solicits works for its annual conference on February 8-9, 2019 at the University of Virginia in Charlottesville, VA. 
+
+N_SEME is an inclusive artistic and academic environment, incorporating DIY approaches to music-making, experimenting with instrument design, and participating in many forms of intermedia collaboration. We consider many forms of composition to be electronic music, including, but not limited to:
+
+* electronic improvisation
+* multimedia art
+* intermedia art
+* tape/fixed media
+* live electronics, analog or digital
+* video
+* DIY instrument performance
+* audiovisual environments
+* interactive electronic systems
+* sound installations
+* acoustic instruments and electronics
+* dance and electronics
+* multi-channel works
+
+Composers currently enrolled as graduate or undergraduate students in a college or university are invited to submit up to two works across the following categories:
 
 1. Music (day concert and late night)
 2. Papers
