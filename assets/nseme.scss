@@ -3,6 +3,8 @@
 
 $header-font: "Baloo Tamma";
 $body-font: "Oxygen";
+$header-color: #39d8d8;
+$cerulean: #73b6fb;
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: $header-font, sans-serif;
@@ -20,12 +22,25 @@ h3 {
 	font-size: 1.6em;
 }
 
+h4 {
+	font-size: 1.3em;
+}
+
+h3, h4 {
+		margin-bottom: 0.3em;
+		margin-top: 1.6em;
+	}
+h1, h2, h3 {
+	color: $header-color;
+}
+
 p, div, ol, ul, blockquote {
 	font-family: $body-font;
 }
 
 a, a:hover, a:visited {
 	color: #aa71c1;
+	// color: $cerulean;
 	text-decoration: underline;
 }
 
@@ -35,6 +50,7 @@ a:hover {
 }
 
 .page-content {
+	line-height: 1.7;
 	padding: 0;
 }
 
@@ -73,6 +89,7 @@ a:hover {
 	}
 
 	.inner-wrap, h1, h3, p {
+		color: white;
 		position: relative;
 		z-index: 1;
 	}
@@ -83,6 +100,7 @@ a:hover {
 }
 
 .home::before, .home::after {
+	border-radius: 26px;
 	content: "";
 	display: block;
 	position: absolute;
@@ -91,30 +109,22 @@ a:hover {
 }
 
 .home::before {
-	border: 8px solid rgba(89, 202, 197, 0.52);
-	border-right-width: 22px;
-	border-bottom-width: 12px;
+	border: 19px solid rgba(89, 202, 197, 0.52);
+	// border-right-width: 22px;
+	// border-bottom-width: 12px;
 	top: 20px; bottom: -40px; right: 20px; left: 30px;
 }
 
 .home::after {
-	border: 6px solid rgba(75, 118, 171, 0.7098039216);
-	border-left-width: 14px;
-	border-top-width: 15px;
+	border: 19px solid rgba(75, 118, 171, 0.7098039216);
+	// border-left-width: 14px;
+	// border-top-width: 15px;
 	top: -6px; bottom: -10px; right: 83px; left: -33px;
 }
 
 .inner:not(.home) {
 	padding-bottom: 4em;
 	padding-top: 4em;
-
-	h3 {
-		margin-bottom: 0.3em;
-		margin-top: 1.6em;
-	}
-	h1, h2, h3 {
-		color: #00a95b;
-	}
 }
 
 .page-call {
@@ -123,6 +133,71 @@ a:hover {
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 
+.page-staff {
+	background-color: #a3d7d8;
+
+	.inner:not(.home) h1 {
+		color: white;
+	}
+}
+
 .page-archive {
 	background-color: #eaeaea;
+}
+
+.page-keynote {
+	background-image: url("https://www.transparenttextures.com/patterns/grunge-wall.png");
+	border-top: 65px solid #ecffff;
+	// background-color: #8c8c8c;
+
+	.wrapper {
+		max-width: calc(900px - (30px * 2));
+	}
+	.inner {
+		// align-items: left;
+		display: flex;
+		flex-wrap: wrap;
+	}
+	p.keynote-img-container {
+		// float: left;
+		flex: 1;
+		margin: 0.4em 2.5em 2em 0;
+		// width: 41%;
+	}
+	.artist-bio {
+		flex: 1.8;
+		// width: 55%;
+	}
+	h1 {
+		// color: #e4dd00;
+		// color: #73b6fb;
+		// color: #21a851;
+		flex: 0 0 100%;
+		width: 100%;
+	}
+	.artist-name {
+		font-weight: bold;
+	}
+	a, a:hover, a:visited {
+		// color: #7be09f;
+		// color: whitesmoke;
+	}
+}
+
+@media(max-width: 750px) {
+	.page-keynote {
+		.artist-bio, p.keynote-img-container {
+			flex: 0 0 100%;
+		}
+	}
+}
+
+.caption {
+	display: block;
+	font-size: 0.9em;
+	font-style: italic;
+	margin-right: 0.4em;
+	margin-top: 1.2em;
+	opacity: 0.8;
+	text-align: right;
 }
