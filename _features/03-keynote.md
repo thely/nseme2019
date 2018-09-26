@@ -5,7 +5,7 @@ slug: keynote
 ---
 
 <p class="keynote-img-container" markdown="1">
-![aaron](nseme2019/assets/img/dilloway2.jpg 'Aaron Dilloway'){:class="keynote-img"}
+![aaron](assets/img/dilloway2.jpg 'Aaron Dilloway'){:class="keynote-img"}
   <span class="caption" markdown="1">photo credit: [Dirk Coenen](https://www.flickr.com/photos/incubatetilburg/15079873317/)</span>
 </p>
 
