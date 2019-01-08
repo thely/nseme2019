@@ -27,9 +27,9 @@ h4 {
 }
 
 h3, h4 {
-		margin-bottom: 0.3em;
-		margin-top: 1.6em;
-	}
+	margin-bottom: 0.3em;
+	margin-top: 1.6em;
+}
 h1, h2, h3 {
 	color: $header-color;
 }
@@ -47,6 +47,19 @@ a, a:hover, a:visited {
 a:hover {
 	color: #6e7fbd;
 	text-decoration: none;
+}
+
+.schedule { 
+	h2 {
+		line-height: 1;
+		margin-bottom: 0;
+		margin-top: 1.4em;
+	}
+	h3 {
+		color: #6a9cbf;
+		margin-top: 0;
+		margin-bottom: 0;
+	}
 }
 
 .page-content {
@@ -127,7 +140,7 @@ a:hover {
 	padding-top: 4em;
 }
 
-.page-call {
+.page-call, .page-schedule {
 	background-color: #ffffff;
 	background-image: url("https://www.transparenttextures.com/patterns/inspiration-geometry.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
