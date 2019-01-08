@@ -66,7 +66,6 @@ Drive to the Edge - Ralph Lewis
 * Drew Smith - Open Your Window
 * Carlos Cotallo Solares and Timothy David Orme - generations 1.1
 * Omar Fraire - Winning Quotes
-* Russell Wharton - Deus Ex Metronome
 * G. Blake Harrison-Lane - Squissael
 * Aiman Khan - Ragged Call
 
