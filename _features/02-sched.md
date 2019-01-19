@@ -48,7 +48,7 @@ Presentation/talk by guest artist, Aaron Dilloway. Snacks will be provided after
 ## Carpool/Shuttle Piece
 ### Friday, 5:30pm
 
-Group car trip to listen to Drive to the Edge by Ralph Lewis. After the keynote, we'll meet a shuttle out on Ruppel Drive (next to Wilson Hall).
+Group car trip to listen to Drive to the Edge by Ralph Lewis, broadcast through WXTJ. After the keynote, we'll meet a shuttle out on Ruppel Drive (next to Wilson Hall).
 
 ## Late-Night 1
 ### Friday, 8pm, The Bridge Progressive Arts Center
