@@ -40,15 +40,15 @@ slug: schedule
 * Tomek Arnold - Dance and Noise
 * Ryan Maguire - freeLanguage
 
-## Colloquium
-### Friday, 3:30pm, location TBD
+## Guest Artist Keynote
+### Friday, 3:30pm, Old Cabell Hall 113
 
-Presentation/talk by Aaron Dilloway. Snacks will be provided after.
+Presentation/talk by guest artist, Aaron Dilloway. Snacks will be provided after.
 
 ## Carpool/Shuttle Piece
-### Friday, time TBD
+### Friday, 5:30pm
 
-Drive to the Edge - Ralph Lewis
+Group car trip to listen to Drive to the Edge by Ralph Lewis. After the keynote, we'll meet a shuttle out on Ruppel Drive (next to Wilson Hall).
 
 ## Late-Night 1
 ### Friday, 8pm, The Bridge Progressive Arts Center
@@ -90,9 +90,11 @@ Drive to the Edge - Ralph Lewis
 ## Workshop
 ### Saturday, 4:30pm, Wilson Hall Makerspace (1st floor)
 
-Light Controlled Noise Synth Workshop - Travis Thatcher
+Light Controlled Noise Synth Workshop with Travis Thatcher
 
-Learn to build a hackablen self-contained, light controlled three oscillator noise synthesizer based around the Hex Schmitt Trigger chip in this two hour workshop. Open to all skill levels though some soldering experience would be helpful.
+Learn to build a hackable self-contained, light controlled three oscillator noise synthesizer based around the Hex Schmitt Trigger chip in this two hour workshop. Open to all skill levels though some soldering experience would be helpful.
+
+This workshop has limited seats - please [register through this form](https://goo.gl/forms/HQVH9s8l4LLRkHBb2) if you'd like to participate. We can only take the first 15 who register.
 
 ## Late-Night 2
 ### Saturday, 8pm, The Bridge Progressive Arts Center
