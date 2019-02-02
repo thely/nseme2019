@@ -254,7 +254,7 @@ a:hover {
 }
 
 .program h4 {
-	line-height: 1;
+	line-height: 1.4;
 	margin-bottom: 0;
 }
 
@@ -281,9 +281,19 @@ a:hover {
 	display: none;
 }
 
+.program .logo-container {
+	text-align: center;
+
+	img {
+		height: auto;
+		width: 60%;
+	}
+}
+
 .about {
 	border-top: 5px solid #e0e0e0;
 }
+
 // .program h2::before {
 // 	// color: #75d4d4;
 // 	content: ">";

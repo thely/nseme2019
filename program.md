@@ -4,11 +4,15 @@ title: Program
 slug: program
 ---
 
+<p class="logo-container" markdown="1">
 ![nseme-logo](/nseme2019/assets/img/nseme-thingie.png 'NSEME 2019 logo'){:class="logo-img"}
+</p>
 
 <!-- # Program -->
 
-Below are all the program notes and composer/performer bios for N_SEME 2019. [Click to go back to the main page.](/nseme2019)
+Below are all the program notes and bios for composers, performer, and presenters for N_SEME 2019.
+
+[back to home](/nseme2019)
 
 <section markdown="1" id="to_top">
 ## Skip to concert
@@ -37,28 +41,32 @@ Below are all the program notes and composer/performer bios for N_SEME 2019. [Cl
 [back to top](#to_top)
 
 #### Joshua Brown - The Treachery of Birds
-Language Commons, Friday evening - all day Saturday
+Language Commons  
+Friday evening - all day Saturday
 
 After an environmental catastrophe wipes out birds, a group of artists have come together to recreate the experience of birds. **The Treachery of Birds** is an exhibition opera, exploring memory and myth, facsimile and realism, and the ethic of exhibition.
 
 **Joshua Brown** is an American multimedia artist based out of Pittsburgh, Pennsylvania. Exploring performance at the intersection of the tragic and the absurd, Joshua's work leverages a diverse skillset, spanning writing, sound art, and graphic design. His artwork deals with found material, performer agency, and a recurring obsession with catastrophic failure. Joshua's work has been performed at the Charlotte New Music Festival, the International Computer Music Conference, and by the Pittsburgh Opera. Joshua holds a BHA in Technical Writing & Music Technology from Carnegie Mellon University and is currently pursuing an Advanced Music Studies Certificate under Prof. Nancy Galbraith.
 
 #### Helen He - Memories of Light
-Language Alcove, Friday – Saturday
+Language Alcove  
+Friday – Saturday
 
 **“Memories of Lights”** is my attempt to create an abstract cemetery that provides a healing experience. Most people associate the image of cemeteries and graveyards to adjectives such as “creepy” “spooky” or “unsettling”. However, there shouldn’t be anything inherently spooky with cemeteries – they contain the memories of people who came to this world and left and the spirits of our forefathers. In this installation, I created what a cemetery represents for me - Birds. Bells. A butterfly fluttering its wings. Sunrise on the horizon. A stroll in a late autumn afternoon. Memories. Lights. In making everything abstract, I attempted to omit all reference or context to any personnel or location, so that the listeners/audience can come to the installation with their own memories and associations, which contribute to their individual listening experiences. 
 
 A young artist originally from Hangzhou, China, **Yuxun "Helen" He** is a fourth-year triple major at Oberlin College and Conservatory studying Computer Science, Math, and Technology in Music and Related Arts as a student of Tom Handman Lopez and Aurie Hsu. Growing up as a choir girl, He has attended festivals and competitions in Austria, the United States, Spain, China, the United Kingdom, and Canada. As a composer, Helen has also attended festivals and workshops around the world, including the 2017 International Music Festival of the Adriatics (where she studied composition with Tom Lopez and Stefano Sacher) and the Kyiv Contemporary Music Days masterclass (where she studied with Ake Parmerud, Jaime Reis, Mehmet Can Ozer, and Alla Zagaykevych). Additionally, she is a member of the student council of Society of Composers, Inc.
 
 #### Chris Luna - Through summersultryings
-outside Old Cabell Hall, Friday afternoon - all day Saturday
+outside Old Cabell Hall  
+Friday afternoon - all day Saturday
 
 This installation aims to recreate the sounds of the summer night life of central Virginia. The field recording was realized in a pentagonal set up, with five rigs consisting of a microphone and a recording device facing outwards and placed 30 yards from each other. The spatialized speaker set up aims to recreate the interactions and relationships of the exuberant voices in the sultry summer's biosphere. For the patient ears, it also displays the gradual and dramatic increase in the texture of the night sounds over a long span of time (around 35 minutes). The piece intends to preserve the abundance of a life that is fragile and already in alarming decline in various regions of the world due to urbanization, unsustainable agricultural practices and climate change.
 
 **Christopher Luna-Mega** is a composer and improviser. He studied Composition at the Universidad Nacional Autónoma de México –UNAM (B.M.) and Mills College (M.A.), as well as Film/Communication Theory at the Universidad Iberoamericana –UIA, Mexico City (B.A.). His work analyzes sounds from natural and urban environments and translates them into notated music for performers and electronics. His orchestral music has been performed by the Orchestra del Teatro Comunale di Bologna, BBC Scottish Symphony Orchestra, Iceland Symphony Orchestra, Montreal-Toronto Art Orchestra, New Thread Quartet, Arditti String Quartet, JACK Quartet, etc. Luna-Mega is a PhD candidate at the University of Virginia. 
 
 #### Tate Carson - A more perfect union
-Old Cabell Hall lobby, Friday - Saturday
+Old Cabell Hall lobby  
+Friday - Saturday
 
 **A more perfect union** is an experiment in participatory real-time composing, where the participant chooses the outcome of the work by listening. The longer a person listens to a certain melody, the more likely an aspect of that melody is to become a lasting part of the composition. Then the participants enact the fitness function of an evolutionary algorithm. Over the duration of the installation, through choosing sounds we like and skipping ones we don't, we should hear a composition develop through our collective effort. From the chaos will emerge A more perfect union. 
 
