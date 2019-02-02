@@ -1,6 +1,6 @@
 ## NSEME 2019 webpage
 
-This is the webpage for NSEME 2019 at the University of Virginia.
+This is the webpage for the 2019 National Student Electronic Music Event at the University of Virginia.
 
 To edit me, you need to install Git and Jekyll. These are all terminal commands.
 
