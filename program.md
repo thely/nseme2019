@@ -39,7 +39,7 @@ Below are all the program notes and composer/performer bios for N_SEME 2019. [Cl
 #### Joshua Brown - The Treachery of Birds
 Language Commons, Friday evening - all day Saturday
 
-After an environmental catastrophe wipes out birds, a group of artists have come together to recreate the experience of birds. The Treachery of Birds is an exhibition opera, exploring memory and myth, facsimile and realism, and the ethic of exhibition.
+After an environmental catastrophe wipes out birds, a group of artists have come together to recreate the experience of birds. **The Treachery of Birds** is an exhibition opera, exploring memory and myth, facsimile and realism, and the ethic of exhibition.
 
 **Joshua Brown** is an American multimedia artist based out of Pittsburgh, Pennsylvania. Exploring performance at the intersection of the tragic and the absurd, Joshua's work leverages a diverse skillset, spanning writing, sound art, and graphic design. His artwork deals with found material, performer agency, and a recurring obsession with catastrophic failure. Joshua's work has been performed at the Charlotte New Music Festival, the International Computer Music Conference, and by the Pittsburgh Opera. Joshua holds a BHA in Technical Writing & Music Technology from Carnegie Mellon University and is currently pursuing an Advanced Music Studies Certificate under Prof. Nancy Galbraith.
 
@@ -60,7 +60,7 @@ This installation aims to recreate the sounds of the summer night life of centra
 #### Tate Carson - A more perfect union
 Old Cabell Hall lobby, Friday - Saturday
 
-A more perfect union is an experiment in participatory real-time composing, where the participant chooses the outcome of the work by listening. The longer a person listens to a certain melody, the more likely an aspect of that melody is to become a lasting part of the composition. Then the participants enact the fitness function of an evolutionary algorithm. Over the duration of the installation, through choosing sounds we like and skipping ones we don't, we should hear a composition develop through our collective effort. From the chaos will emerge A more perfect union. 
+**A more perfect union** is an experiment in participatory real-time composing, where the participant chooses the outcome of the work by listening. The longer a person listens to a certain melody, the more likely an aspect of that melody is to become a lasting part of the composition. Then the participants enact the fitness function of an evolutionary algorithm. Over the duration of the installation, through choosing sounds we like and skipping ones we don't, we should hear a composition develop through our collective effort. From the chaos will emerge A more perfect union. 
 
 **Tate Carson** is a composer from New Orleans, Louisiana. He studied jazz composition and performance at both Loyola University New Orleans and the University of New Orleans. Carson was active in the New Orleans jazz improvisation scene from 2009 until 2015 when he moved to Oakland, California to attend Mills College where he earned an MFA in Electronic Music and Recording Media. He is currently pursuing a PhD in Experimental Music and Digital Media at Louisiana State University.
 
