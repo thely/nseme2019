@@ -82,7 +82,6 @@ Group car trip to listen to Drive to the Edge by Ralph Lewis, broadcast through 
 * Jacob Sandridge - Flock
 * Liz Knox - In situ
 * William Bertrand, Austin Covell - dregs-magic
-* Amina Kirby - Freeque (Modo Difícil)
 * Mauricio Fonseca López - Calicanto
 * Drake Dragone - Quiv
 * Aaron Stepp - Transparent, luminescent

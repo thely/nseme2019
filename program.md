@@ -186,6 +186,12 @@ Lara Mitsofsky Neuss, bass clarinet
 
 **Carolyn Borcherding** is a Graduate Assistant at the University of Illinois pursuing a doctoral degree in music composition. Her compositional interests involve exploring the potential musical relationships between acoustic instruments and electronics, and experimenting with the creation of space in fixed media works. She has had works performed at SEAMUS, the Electroacoustic Barn Dance, Electronic Music Midwest, SPLICE Institute, and others. Carolyn received her Master’s in Music Composition at Western Michigan University where she studied with Dr. Christopher Biggs and Dr. Lisa Coons.
 
+**Lara Mitofsky Neuss** is a clarinetist, educator, and administrator. Her work focuses on creating an innovative and engaging environment for the world of music, one that bridges the gap between classical music and other mainstream genres. She has organized and performed many exciting workshops and recitals, including “The 21st Century Clarinet,” a solo recital consisting of all music written in the past ten years, and a recital looking back on her time living in Colorado titled “Reflections.” She recently created a workshop titled “Electroacoustic Endeavors,” in which she organized world premieres and classes on electroacoustic music at The Music District in Fort Collins, Colorado. In 2018, she was a chosen performer and educator for the Orford Contemporary Music and Improvisation Tour in Stockholm, Sweden with improviser Anders Ästrand. 
+
+Mitofsky Neuss has performed at a variety of ensembles and festivals including Americans for the Arts, SPLICE Electroacoustic Festival, Bang on a Can Music Festival, Banff Center for the Arts, Orford Musique, Opera Parallele, New York Youth Symphony, and Domaine Forget Music Academy, among others. Performances have taken her to venues such as Carnegie Hall, Weill Recital Hall, and the Berlin Philharmonie. As a soloist, she was the winner of the Eastern Music Festival Concerto Competition, and has been a finalist and semi-finalist in the San Francisco Conservatory of Music Concerto Competition and the William C. Byrd International Competition, respectively. She is currently pursuing her Doctor of Music degree at Florida State University as a graduate teaching assistant and she is a graduate of Colorado State University (MM) and the San Francisco Conservatory of Music (BM). Mitofsky Neuss maintains a private teaching studio with dedication to mentoring the next generation of musicians and artists.
+
+
+
 #### Peiyue Lu - Aquatic Cubes
 *interactive real-time performance*
 
@@ -376,13 +382,6 @@ A thematization of residue, dregs-magic functions like a microscope, revealing s
 
 William Bertrand is a composer and improviser from Jupiter, Florida. He is currently a double-degree student at Oberlin College, pursuing degrees in physics and electroacoustic music. 
 Austin Covell is a multi-disciplinary artist from Palm Beach Gardens, Florida. Austin is a 2015 Young Arts Recipient for Music Composition, and currently studies film, sound art, and sculpture as an undergraduate at Tufts University.
-
-#### Amina Kirby - Freeque (Modo Difícil)
-*live electronics*
-
-Track from full-length album “Life Eating Death Feeding”, by Phoxii.
-
-Amina Kirby is a sound artist, maker, and electronic music performer / producer- completing nearly two dozen releases over the past 16+ years and numerous tours within Europe, the United States and Antarctica. Her works include a range of fixed media, sound art installations, handmade synth and circuit boxes, and interactive performances utilizing MIDI-based instruments of her own design. She is currently a candidate for the Mills College MFA Electronic Music & Recording Media, and serves as event coordinator for Signal Flow 2019; the end of year thesis performance for music majors at Mills College.
 
 #### Mauricio Fonseca López – Calicanto
 *stereo fixed media*
