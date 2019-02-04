@@ -51,7 +51,7 @@ Presentation/talk by guest artist, Aaron Dilloway. Snacks will be provided after
 Group car trip to listen to Drive to the Edge by Ralph Lewis, broadcast through WXTJ. After the keynote, we'll meet a shuttle out on Ruppel Drive (next to Wilson Hall).
 
 ## Late-Night 1
-### Friday, 8pm, The Bridge Progressive Arts Center
+### Friday, 8pm, The Bridge Progressive Arts Initiative (209 Monticello Rd, Charlottesville, VA, 22902)
 
 * Julius Bucsis
 * MDLWR
@@ -96,7 +96,7 @@ Learn to build a hackable self-contained, light controlled three oscillator nois
 This workshop has limited seats - please [register through this form](https://goo.gl/forms/HQVH9s8l4LLRkHBb2) if you'd like to participate. We can only take the first 15 who register.
 
 ## Late-Night 2
-### Saturday, 8pm, The Bridge Progressive Arts Center
+### Saturday, 8pm, The Bridge Progressive Arts Initiative (209 Monticello Rd, Charlottesville, VA, 22902)
 
 * Anruo Cheng
 * Aaron Dilloway
