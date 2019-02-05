@@ -287,7 +287,7 @@ I wrote **Party Teen #1** in confrontation with expectations of feminine emotion
 #### Drew Smith – Open Your Window
 *stereo fixed media*
 
-<!-- fix me later -->
+**Open Your Window** is a meditation on struggles with insomnia that I composed towards the end of my first semester of college. The piece was created almost entirely with a Ciat-Lonbarde Plumbutter, ARP 2600 and electric guitar.
 
 **Drew Smith** (1999 - , they/them) is an American electroacoustic composer, musician, multimedia artist and engineer. In recent years, their musical work has revolved around explorations of the possibilities of combining analog synthesis techniques, digital processing, and acoustic instruments through recording and performance. They have begun to expand into multimedia work and instillation, incorporating circuit/instrument building, video, dance, and sculpture into his composition practice. As a musician, Smith plays prepared electric guitar, modular synthesizer and various live electronics in their own pieces and with various ensembles. Smith is currently attending Oberlin Conservatory, working towards a BM in Technology in Music and Related Arts, where they study primarily with Peter Swendsen and Tom Lopez.
 
