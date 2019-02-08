@@ -92,12 +92,12 @@ The “Albeniz Collage" features a radical de-construction of Isaac Albeniz’ �
 
 **Juan Carlos Vasquez** is an award-winning composer and researcher from Colombia. His electroacoustic music works are performed constantly around the world and have been premiered in 28 countries of the Americas, Europe, Asia, and Australia. Vasquez has received creation grants and/or commissions by numerous institutions, including the Nokia Research Center, the Ministry of Culture of Colombia, AVEK, the Finnish National Gallery, the Sibelius Birth Town Foundation, the Arts Promotion Centre in Finland and the Royal College of Music in London, UK. Vasquez received his education at the Sibelius Academy (FI), Aalto University (FI) and currently at the University of Virginia (USA)
 
-#### John Clay Allen – Light Pillars II
+<!-- #### John Clay Allen – Light Pillars II
 *live electronics and video*
 
 A light pillar is an optical phenomenon in which a vertical band of light appears extending from a light source. The effect is most striking in the northern latitudes. In both Light Pillars for large chamber ensemble and this companion piece for electronics, a parallel is drawn between this optical phenomenon and the harmonic spectra of various metal percussion instruments. In the case of the earlier piece, these spectra provide the pitch material. In Light Pillars II, these materials are manipulated beyond recognition. 
 
-Originally from Ruidoso, New Mexico, **Clay Allen** is an American composer and pianist. Clay has studied composition at the University of North Texas with Kirsten Broberg, Andrew May, and Joseph Klein and at West Texas A&M University with BJ Brooks. Clay is currently pursuing his DMA at the University of Colorado – Boulder where he works with Carter Pann and Michael Theodore.
+Originally from Ruidoso, New Mexico, **Clay Allen** is an American composer and pianist. Clay has studied composition at the University of North Texas with Kirsten Broberg, Andrew May, and Joseph Klein and at West Texas A&M University with BJ Brooks. Clay is currently pursuing his DMA at the University of Colorado – Boulder where he works with Carter Pann and Michael Theodore. -->
 
 #### Nicholas Chuauqui – Footprints I
 *trumpet and stereo fixed media*  
@@ -433,7 +433,7 @@ Travis Thatcher is a pillar of Charlottesville’s music community, and Technica
 
 #### Anruo Cheng
 
-V-Lectronic is a visual gesture controller and instrument. It is made of a computer running Max/MSP, a gestural sensor Leapmotion, and a mini keypad. During the performance, it can finish quick mix and match procedure with prerecorded instrument parts from different genres of EDM, such as technical, D&B, and Dub-step, and then rebuild a new “genre” or a new “song” in multiple possibilities. In the meantime, all the parameters of inserted effects are controlled by hand gestures. It is a theremin and a mini DJ controller without any knob or fader.
+I designed an audio/sound installation to express the philosophy idea of Chinese Five-Elements (Wuxing): the universe consists of five elements (gold, wood, water, fire, and earth), and they mutually reinforce and neutralize each other to reach the state of balance. The sound installation consists of a lamp, an integrated circuit plate, and a laptop running a Max/MSP/Jitter patch. When touching the sphere, it will make a sound through the speakers, which represents that element’s texture. Meanwhile, the picture of the element will also show on the projection screen in the real time. It also contains the sound effects like delay, reverb, erosion, etc. 
 
 **Anruo Cheng** is a Miami based electronic music composer, pop music producer and DJ. She is currently a DMA student in composition in Frost School of Music, University of Miami. Her works focus on sound installations, and combination of experimental electronic music and electronic dance music.
 

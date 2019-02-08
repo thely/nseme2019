@@ -6,8 +6,8 @@ slug: schedule
 
 ## Installations
 
-* The Treachery of Birds (Joshua Brown): Language Commons, Friday evening - all day Saturday
-* Memories of Light (Helen He): Language Alcove, Friday - Saturday
+<!-- * The Treachery of Birds (Joshua Brown): Language Commons, Friday evening - all day Saturday -->
+* Memories of Light (Helen He): Language Alcove, Friday afternoon - Saturday
 * Through summersultryings (Chris Luna): outside Old Cabell Hall, Friday afternoon - all day Saturday
 * A more perfect union (Tate Carson): Old Cabell Hall lobby, Friday - Saturday
 
@@ -16,7 +16,7 @@ slug: schedule
 
 * Elliott Lupp - Hinge
 * Juan Carlos Vasquez - Collage 11 “Albeniz Collage”
-* John Clay Allen - Light Pillars II
+<!-- * John Clay Allen - Light Pillars II -->
 * Nicolas Chuaqui - Footprints I
 * harleigh shaw - Entangled
 * Eli Stine - No Where
